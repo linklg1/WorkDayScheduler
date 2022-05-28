@@ -5,6 +5,7 @@ A dynamic schedule that saves text inputs and also color codes the time dependin
 
 Deployment link:
 
+https://linklg1.github.io/WorkDayScheduler/
 
 
 Screen shots:
