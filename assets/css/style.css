@@ -4,9 +4,9 @@ body {
   line-height: 1;
 }
 
-textarea {
+input {
   background: transparent;
-  border: none;
+  border: solid;
   resize: none;
   color: #000000;
   border-left: 1px solid black;
@@ -15,7 +15,7 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: aquamarine;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
@@ -25,7 +25,7 @@ textarea {
   white-space: pre-wrap;
 }
 
-.time-block {
+.time {
   text-align: center;
   border-radius: 15px;
 }
@@ -39,29 +39,29 @@ textarea {
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-top: 1px dashed #000000;
+  border-top: 1px #000000;
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: lightcyan;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: orange;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: magenta;
   color: white;
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border-left: 1px solid darkgreen;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: plum;
   color: white;
 }
 
